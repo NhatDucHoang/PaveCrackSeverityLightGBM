@@ -1,0 +1,2 @@
+The last column stores the class labels.
+The class labels are non-crack (coded as C0), sealed crack (coded as C1), minor crack (coded as C2), moderate crack (coded as C3), and severe crack (coded as C4). Each class label contains 625 instances. 
